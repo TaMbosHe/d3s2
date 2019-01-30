@@ -1,6 +1,6 @@
 owner=300306052610523136
-prefix=Ce
-game=Ceplay
+prefix=6
+game=6play
 stayinchannel=true
 songinstatus=false
 token=NTM4Njg4OTk4MzM2NjI2Njg5.Dy3eCQ.xPRYAlhsoSVC9zYYQ1sXwecggwU
